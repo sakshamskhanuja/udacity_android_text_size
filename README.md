@@ -19,7 +19,7 @@ The application shows a single ```TextView``` having ```textSize``` set to ```45
 
 ### Screenshots
 
-| Device | Virtual | OS | API | Orientation |
-| --- | --- | --- | --- | --- |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Portrait](https://user-images.githubusercontent.com/122201501/223968399-5b16ed4f-d2d1-4fe0-bd1e-8d71429f4e87.png) |
-| Pixel 6 Pro | Yes | Android Q | 29 | [Landscape](https://user-images.githubusercontent.com/122201501/223968412-2a768fbe-f058-41f0-9ca5-a700dc9bb881.png) |
+| Device      | Virtual | OS        | API | Orientation                                                                                                         |
+|-------------|---------|-----------|-----|---------------------------------------------------------------------------------------------------------------------|
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Portrait](https://user-images.githubusercontent.com/122201501/223968399-5b16ed4f-d2d1-4fe0-bd1e-8d71429f4e87.png)  |
+| Pixel 6 Pro | Yes     | Android Q | 29  | [Landscape](https://user-images.githubusercontent.com/122201501/223968412-2a768fbe-f058-41f0-9ca5-a700dc9bb881.png) |
