@@ -10,10 +10,10 @@ The application shows a single ```TextView``` having ```textSize``` set to ```45
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="@android:color/darker_gray"
+    android:background="@color/color_text_background"
     android:text="@string/description"
-    android:textColor="@android:color/black"
-    android:textSize="45sp"
+    android:textColor="@color/color_text"
+    android:textSize="@dimen/large_text"
     tools:context=".MainActivity" />
 ```
 
